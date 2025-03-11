@@ -17,13 +17,13 @@ It provides an **interactive UI** for analyzing multi-band images and extracting
 ## 🔧 Installation & Setup  
 ### **Clone the Repository**  
 ```bash
-git clone <[GitHub Repository URL](https://github.com/sejalsahu01/Hyperspectral-UI-Analyzer)>
-cd Hyperspectral-Analysis
+git clone https://github.com/sejalsahu01/Hyperspectral-UI-Analyzer
+cd Hyperspectral-UI-Analyzer
 ```
 
 ## **Usage**
 ```bash
-python hyperspectral_ui.py
+python backend0503.py
 ```
 ---
 
