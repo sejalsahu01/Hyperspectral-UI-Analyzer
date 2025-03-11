@@ -18,11 +18,11 @@ It provides an **interactive UI** for analyzing multi-band images and extracting
 ## 📊 Example Output  
 
 ### **UI Interface**  
-![Example GUI](![image](https://github.com/user-attachments/assets/2bd90f2f-0224-4ce9-91de-2edc219f47f0)
-)  
+![Screenshot 2025-03-11 235011.png](https://github.com/user-attachments/assets/2bd90f2f-0224-4ce9-91de-2edc219f47f0)
+
 
 ### **Processed Output with Spectral Signature**  
-![Spectral Signature](Screenshot2.png)  
+![Screenshot 2025-03-11 174603.png](https://github.com/user-attachments/assets/2bd90f2f-0224-4ce9-91de-2edc219f47f0)
 
 ---
 
